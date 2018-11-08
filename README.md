@@ -1,21 +1,7 @@
 # verydog.net
 
-## Project setup
-```
-npm install
-```
+# install & run
+* `npm i`
+* `npm run serve` & `npm run build`
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+后端项目源码 https://github.com/cmdboys/verydog
